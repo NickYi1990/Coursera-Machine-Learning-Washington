@@ -1,0 +1,1 @@
+define("nls/zh/group-roster",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Classmates:"同学","Open {groupName} Chat":"打开 {groupName} 图表"}});

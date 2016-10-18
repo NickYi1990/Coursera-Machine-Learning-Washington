@@ -1,0 +1,1 @@
+define("nls/zh/interactive-transcript",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Loading {languageName}...":"正在加载 {languageName}...","Search Transcript":"搜索成绩单"}});

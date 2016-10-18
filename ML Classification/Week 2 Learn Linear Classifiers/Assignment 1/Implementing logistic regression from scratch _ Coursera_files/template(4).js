@@ -1,0 +1,1 @@
+define("bundles/assess/questionTypes/regex/student/nls/zh/template",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"#{score} / #{maxScore} points":"#{score} / #{maxScore} 分",Correct:"正确","Correct Response&nbsp;":"正确回答&nbsp;","Enter answer here":"在此输入您的回答",Incorrect:"错误","Incorrect Response&nbsp;":"不正确回答&nbsp;"}});

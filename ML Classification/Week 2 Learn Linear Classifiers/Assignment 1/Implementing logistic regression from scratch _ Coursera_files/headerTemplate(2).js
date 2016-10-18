@@ -1,0 +1,1 @@
+define("bundles/assess/questionTypes/radioPoll/student/nls/zh/headerTemplate",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Poll:"单项投票"}});

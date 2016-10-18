@@ -1,0 +1,1 @@
+define("bundles/assess/questionTypes/checkboxPoll/student/nls/zh/headerTemplate",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Checkbox Poll":"多项投票"}});

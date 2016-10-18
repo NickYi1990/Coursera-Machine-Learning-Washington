@@ -1,0 +1,1 @@
+define("bundles/userModal/views/nls/zh/userModal",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Log In":"登录","Sign Up":"注册","Universal access to the world’s best education.":"我们致力于普及全世界最好的教育。"}});

@@ -1,0 +1,1 @@
+define("bundles/assess/assessmentTypes/videoQuiz/nls/zh/template",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Continue:"继续","Continuing...":"正在继续...",Skip:"跳过",Submit:"提交","Submit error. Please try again.":"提交失败。请重试。","Submitting...":"正在提交..."}});
