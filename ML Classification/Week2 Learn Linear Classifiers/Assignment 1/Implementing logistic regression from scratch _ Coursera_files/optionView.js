@@ -1,0 +1,1 @@
+define("bundles/assess/questionTypes/optionBase/student/nls/zh/optionView",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Correct Response&nbsp;":"正确回答&nbsp;","Incorrect Response&nbsp;":"不正确回答&nbsp;"}});

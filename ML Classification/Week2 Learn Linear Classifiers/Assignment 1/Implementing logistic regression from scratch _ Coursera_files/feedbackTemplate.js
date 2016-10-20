@@ -1,0 +1,1 @@
+define("bundles/assess/questionTypes/pollBase/student/nls/zh/feedbackTemplate",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Check back later to see more responses.":"请稍后查看更多回答","Poll Results":"投票结果","You were one of the first people to answer this question.":"您是最早回答该问题的用户之一。",response:"回答",responses:"回答"}});

@@ -1,0 +1,1 @@
+define("bundles/videojs/layout/nls/zh/controls",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Cast:"投射",Download:"下载",Fullscreen:"全屏",Settings:"设置",Subtitles:"字幕","Subtitles Off":"字幕关闭"}});

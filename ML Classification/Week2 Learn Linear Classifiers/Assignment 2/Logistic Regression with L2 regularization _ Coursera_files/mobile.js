@@ -1,0 +1,1 @@
+define("nls/zh/mobile",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Download App":"下载应用","Use the Coursera app":"使用 Coursera 应用","You’ll be able to track your progress, giving you a better learning experience.":"您将能够跟踪你的进度，给予你一个更好的学习体验。"}});

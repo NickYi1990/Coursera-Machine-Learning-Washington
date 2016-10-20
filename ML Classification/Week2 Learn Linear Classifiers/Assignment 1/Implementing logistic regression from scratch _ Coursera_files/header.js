@@ -1,0 +1,1 @@
+define("pages/open-course/item/views/nls/zh/header",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Navigation closed":"导航栏已关闭","Navigation open":"导航栏已打开","Toggle navigation":"打开/关闭导航栏"}});

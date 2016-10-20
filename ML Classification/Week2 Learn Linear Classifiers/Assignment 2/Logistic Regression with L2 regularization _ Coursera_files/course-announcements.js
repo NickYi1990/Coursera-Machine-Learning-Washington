@@ -1,0 +1,1 @@
+define("nls/zh/course-announcements",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"In the meantime, continue the course!":"同时，请继续课程！","There are no announcements at the moment.":"目前没有任何公告。"}});
