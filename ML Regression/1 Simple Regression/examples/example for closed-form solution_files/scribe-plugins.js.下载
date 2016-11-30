@@ -1,0 +1,1 @@
+define("nls/zh/scribe-plugins",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Configure Execution":"配置执行","Delete code block":"删除代码块",Execution:"执行","Select language":"选择语言"}});

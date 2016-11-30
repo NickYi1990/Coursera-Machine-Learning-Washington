@@ -1,0 +1,1 @@
+define("bundles/videojs/layout/nls/zh/resolutionMenuSection",["require","exports","module"],function(require,exports,module){"use strict";module.exports={High:"高清",Low:"流畅",Medium:"标准","Video Quality":"视频质量"}});

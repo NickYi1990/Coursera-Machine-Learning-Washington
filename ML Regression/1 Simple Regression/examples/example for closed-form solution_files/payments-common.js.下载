@@ -1,0 +1,1 @@
+define("nls/zh/payments-common",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"% off":"% 折扣"}});
