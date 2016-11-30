@@ -1,0 +1,1 @@
+define("bundles/videojs/layout/nls/zh/playbackRateMenuSection",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Playback Rate":"播放速率"}});

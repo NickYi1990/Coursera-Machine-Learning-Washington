@@ -1,0 +1,1 @@
+define("bundles/confirmNavigation/nls/zh/confirmNavigation",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Are you sure you want to leave this page?":"您确定要离开本页面吗？","Confirm Navigation":"确定浏览","Leave this Page":"离开本页面","Stay on this Page":"留在本页面"}});
